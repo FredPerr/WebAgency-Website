@@ -8,4 +8,4 @@ Typical Web agency website making websites, advertisement and hosting.
 - i18n (localisation)
 - emailjs
 
-[Home page preview](https://github.com/FredPerr/WebAgency-Website/edit/main/Animation.svg)
+![Home page preview](https://github.com/FredPerr/WebAgency-Website/edit/main/Animation.svg)
