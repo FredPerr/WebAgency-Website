@@ -8,7 +8,7 @@ import AdvertisementSection from "components/section/AdvertisementSection"
 import WebHostingSection from "components/section/WebHostingSection"
 import ContactSection from "components/section/ContactSection"
 import QuoteSection from "@/components/section/QuoteSection"
-import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
+// import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
 
 
 
@@ -40,12 +40,12 @@ Home.getLayout = function getLayout(page: React.ReactElement) {
 
 
 
-export async function getServerSideProps({ locale }: {locale: string}) {
-  return {
-    props: {
-      ...(await serverSideTranslations(locale, ['common',])),
-    },
-  };
-}
+// export async function getServerSideProps({ locale }: {locale: string}) {
+//   return {
+//     props: {
+//       ...(await serverSideTranslations(locale, ['common',])),
+//     },
+//   };
+// }
 
 export default Home
