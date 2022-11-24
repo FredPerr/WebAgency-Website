@@ -1,6 +1,8 @@
 # WebAgency
 
-Typical Web agency website making websites, advertisement and hosting.
+Latest build: https://web-agency-website.vercel.app/
+
+Website template of a web agency making websites, advertisement and hosting.
 
 - NextJS - React
 - TypeScript
@@ -8,4 +10,3 @@ Typical Web agency website making websites, advertisement and hosting.
 - i18n (localisation)
 - emailjs
 
-https://web-agency-website.vercel.app/
